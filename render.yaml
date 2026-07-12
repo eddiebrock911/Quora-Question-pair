@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: AntiSpamKiT
+    name: WhatKiT
     env: python
     plan: free
     buildCommand: "pip install -r requirements.txt"
